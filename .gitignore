@@ -1,0 +1,5 @@
+# grote rekenresultaten (opnieuw te genereren met de scripts)
+results/
+logs/
+__pycache__/
+*.pyc
